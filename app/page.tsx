@@ -9,7 +9,7 @@ const frameMetadata = getFrameMetadata({
     }
   ],
   image: {
-    src: '/public/park-5.jpg',
+    src: 'https://ibb.co/3F3PRJX',
     aspectRatio: '1:1',
   },
   input: {
